@@ -1,0 +1,37 @@
+This is a sample text file.
+text in this line is in lowercase
+Did you do your homework?
+Did the teacher scold you?
+Some more text
+
+
+The caret symbol is ^
+Double quote "
+British spelling is colour
+American spelling is color
+
+
+British spelling is sulphur
+American spelling is sulfur
+
+I had had my breakfast by the time you came.
+The PAN number is ABCDE1234X
+Can you teach me the grep tool?
+
+There are 5 fingers in each hand
+There are 12 months in a year
+
+I would like to have an icecream and also like to have a pizza
+another line of text here
+your score is pretty low!!
+That's it for now.
+
+hey open that canister for me
+this is a beautiful toucan
+can you hand me over that book
+I will just make up this word abcanxyz
+
+<hello>ldskfjldj</eoruowu>
+dsklfj sdlfjds <username>abcdef</username> dlfkjl sdlfj
+<password>Some Password</password>
+

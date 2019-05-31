@@ -1,0 +1,10 @@
+#!/usr/bin/expect
+
+set timeout 20
+
+spawn "./addition.sh"
+
+expect "Enter the first number :" { send "12\r" }
+expect "Enter the second number :" { send "23\r" }
+
+interact

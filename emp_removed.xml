@@ -1,0 +1,13 @@
+<details of="employee" size="1000">
+    <employee fname="gana" lname="nanjappa">
+        <id>529</id>
+        <location Office="Tidel Park">Mumbai City</location>
+        <salary>35000</salary>
+    </employee>
+    <employee fname="ram" lname="govind">
+        <id>530</id>
+        <location Office="Ramanujan IT Park">Chennai City</location>
+        <salary>45000</salary>
+    </employee>
+    <company />
+</details>

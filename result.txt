@@ -1,0 +1,6 @@
+prodID	prodName	unitPrice	avQty
+1001	Fountain Pen	85	250
+1002	Pencil	5	200
+1003	Geometry Box	165	88
+1004	Chart Paper	5	100
+1005	Eraser	5	275
