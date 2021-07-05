@@ -19,8 +19,11 @@ Also helps to set up and run this application locally in a linux or windows mach
 
 ## Febnocci
 end_point			:hostname:5001/feb
+
 Mandotory Parameter	:n (number greater than zero)
-calling from python	: 
+
+calling from python	:
+
 import requests
 response = requests.get(url='hostname/feb',params={'n':5})
 print(response.json())
