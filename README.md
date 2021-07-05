@@ -100,7 +100,7 @@ Reponse code:400
 				n -= 1
 			return fact
 
-## Aucker Man funtion
+## Auckerman
 
 end_point			:hostname:5001/ack
 
